@@ -19,7 +19,21 @@
 * Figma
 
 --------------------------------------------------------------------------------------------------------
-### 5. CODE EXAMPLES
+### 5. COURSES
+###### IT Shatle: courses on creating web-pages, may - june 2020;
+###### EPAM: Computer Science Basics, august 2020;
+###### SEO - courses by Andrew Merkulov, may 2016.
+--------------------------------------------------------------------------------------------------------
+### 6. EDUCATION
+##### BSU
+###### Retraining in the specialty web-design and programming, february 2017 - october 2018;
+##### International University «MITSO»
+###### Higher education with a degree in ‘logistics - economist’, september 2011 - june 2015.
+
+### 7. ENGLISH LEVEL
+###### A2.
+--------------------------------------------------------------------------------------------------------
+### 8. CODE EXAMPLES
 #### We display the first and last letter:
     let text = prompt('enter a word');
     console.log(`First: ${text[0]} \nLast:  ${text[(text.length) - 1]}`);
@@ -35,17 +49,4 @@
     return result;
     }
     console.log(capitalize('mary'));
---------------------------------------------------------------------------------------------------------
-### 6. COURSES
-###### IT Shatle: courses on creating web-pages, may - june 2020;
-###### EPAM: Computer Science Basics, august 2020;
-###### SEO - courses by Andrew Merkulov, may 2016.
---------------------------------------------------------------------------------------------------------
-### 7. EDUCATION
-##### BSU
-###### Retraining in the specialty web-design and programming, february 2017 - october 2018;
-##### International University «MITSO»
-###### Higher education with a degree in ‘logistics - economist’, september 2011 - june 2015.
---------------------------------------------------------------------------------------------------------
-### 8. ENGLISH LEVEL
-###### A2.
+
