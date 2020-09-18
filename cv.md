@@ -32,21 +32,4 @@
 
 ### 7. ENGLISH LEVEL
 ###### A2.
---------------------------------------------------------------------------------------------------------
-### 8. CODE EXAMPLES
-#### We display the first and last letter:
-    let text = prompt('enter a word');
-    console.log(`First: ${text[0]} \nLast:  ${text[(text.length) - 1]}`);
-#### Result in degree:
-    const step = (a, b) => {
-    const result = (`Number result ${a} в ${b} degree equals ${a ** b}`)
-    return result;
-    }
-    console.log(step(2, 3));
-#### Enter the name, the first will always be from the main line automatically: 
-    const capitalize = (name) => {
-    const result = ((name.slice(0, 1)).toUpperCase()) + (name.slice(1, (name.length)));
-    return result;
-    }
-    console.log(capitalize('mary'));
 
