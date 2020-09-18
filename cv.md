@@ -42,5 +42,5 @@
 ###### Retraining in the specialty web-design and programming, february 2017 - october 2018;
 ##### International University «MITSO»
 ###### Higher education with a degree in ‘logistics - economist’, september 2011 - june 2015.
-### 8. English level
+### 8. ENGLISH LEVEL
 ###### A2.
